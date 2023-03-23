@@ -1,0 +1,3 @@
+@echo off
+:: project 5c-CoW.
+echo yipee >> %appdata%\5con
